@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunO2&theme=shades-of-purple&layout=compact)](https://github.com/sunO2)
 <!--
 **sunO2/sunO2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
